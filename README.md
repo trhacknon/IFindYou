@@ -107,6 +107,6 @@ Package: 154 MB
 ###### Статья носит исследовательский характер. Она адресована специалистам по безопасности и тем, кто собирается ими стать. При ее написании использовались общедоступные базы данных. Ни редакция, ни автор не несут ответственности за неэтичное использование любых упомянутых здесь сведений. Team: He1Zen
 
 ## Supporters
-[![Stargazers repo roster for @mishakorzik/IFindYou](https://reporoster.com/stars/mishakorzik/IFindYou)](https://github.com/mishakorzik/IFindYou/stargazers)
-[![Forkers repo roster for @mishakorzik/IFindYou](https://reporoster.com/forks/mishakorzik/IFindYou)](https://github.com/mishakorzik/IFindYou/members)
+[![Stargazers repo roster for @trhacknon/IFindYou](https://reporoster.com/stars/trhacknon/IFindYou)](https://github.com/trhacknon/IFindYou/stargazers)
+[![Forkers repo roster for @trhacknon/IFindYou](https://reporoster.com/forks/trhacknon/IFindYou)](https://github.com/trhacknon/IFindYou/members)
 
