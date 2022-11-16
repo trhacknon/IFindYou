@@ -1,4 +1,4 @@
-3<p align="center">
+<p align="center">
 <a href="https://github.com/trhacknon/IFindYou"><img title="Version" src="https://img.shields.io/badge/Version-1.2.4-darkblue?style=for-the-badge&logo="></a>
 <a href="https://github.com/trhacknon/IFindYou/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-blue?style=for-the-badge&logo=Mozilla_Public_License"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Bash-Default-blue?style=for-the-badge&logo=shell"></a>
