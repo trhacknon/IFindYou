@@ -104,7 +104,7 @@ Package: 154 MB
 
 <img src="https://github-readme-stats.vercel.app/api?username=trhacknon&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
-###### Статья носит исследовательский характер. Она адресована специалистам по безопасности и тем, кто собирается ими стать. При ее написании использовались общедоступные базы данных. Ни редакция, ни автор не несут ответственности за неэтичное использование любых упомянутых здесь сведений. Team: He1Zen
+###### L'article est de nature recherche. Il s'adresse aux spécialistes de la sécurité et à ceux qui vont le devenir. Lors de sa rédaction, des bases de données publiques ont été utilisées. Ni les éditeurs ni l'auteur ne sont responsables de l'utilisation contraire à l'éthique de l'une des informations mentionnées ici. Équipe: Trhacknon
 
 ## Supporters
 [![Stargazers repo roster for @trhacknon/IFindYou](https://reporoster.com/stars/trhacknon/IFindYou)](https://github.com/trhacknon/IFindYou/stargazers)
