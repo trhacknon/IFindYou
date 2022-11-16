@@ -1,4 +1,4 @@
-<p align="center">
+3<p align="center">
 <a href="https://github.com/trhacknon/IFindYou"><img title="Version" src="https://img.shields.io/badge/Version-1.2.4-darkblue?style=for-the-badge&logo="></a>
 <a href="https://github.com/trhacknon/IFindYou/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-blue?style=for-the-badge&logo=Mozilla_Public_License"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Bash-Default-blue?style=for-the-badge&logo=shell"></a>
@@ -107,6 +107,6 @@ Package: 154 MB
 ###### Статья носит исследовательский характер. Она адресована специалистам по безопасности и тем, кто собирается ими стать. При ее написании использовались общедоступные базы данных. Ни редакция, ни автор не несут ответственности за неэтичное использование любых упомянутых здесь сведений. Team: He1Zen
 
 ## Supporters
-[![Stargazers repo roster for @trhacknon/IFindYou](https://reporoster.com/stars/trhacknon/IFindYou)](https://github.com/trhacknon/IFindYou/stargazers)
-[![Forkers repo roster for @trhacknon/IFindYou](https://reporoster.com/forks/trhacknon/IFindYou)](https://github.com/trhacknon/IFindYou/members)
+[![Stargazers repo roster for @trhacknon/FindYou](https://reporoster.com/stars/trhacknon/FindYou)](https://github.com/trhacknon/FindYou/stargazers)
+[![Forkers repo roster for @trhacknon/FindYou](https://reporoster.com/forks/trhacknon/FindYou)](https://github.com/trhacknon/FindYou/members)
 
