@@ -19,7 +19,7 @@
 
 ---
 
-> Je ne suis pas responsable de tes actions. En téléchargeant un logiciel à partir de ce référentiel, vous acceptez la licence .[лицензией](https://github.com/mishakorzik/Ultra-DDos/blob/main/LICENSE).
+> Je ne suis pas responsable de tes actions. En téléchargeant un logiciel à partir de ce référentiel, vous acceptez la licence .[лицензией](https://github.com/trhacknon/Ultra-DDos/blob/main/LICENSE).
 
 ----
 
