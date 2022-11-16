@@ -82,10 +82,10 @@ Package: 154 MB
 --------
 
 ## Find Me 
-[![Github](https://img.shields.io/badge/ANONYMOUS TRHACKNON-red?style=for-the-badge&logo=reddit)](https://www.reddit.com)
+[![Github](https://img.shields.io/badge/Anonymous-TRHACKNON-red?style=for-the-badge&logo=telegram)](https://www.reddit.com)
 [![Github](https://img.shields.io/badge/TELEGRAM-trhacknon-orange?style=for-the-badge&logo=telegram)](https://t.me/)
 [![Github](https://img.shields.io/badge/GitHub-trgacknon-yellow?style=for-the-badge&logo=github)](https://github.com/trhacknon)
-[![Github](https://img.shields.io/badge/anonymous-trhacknon-blue?style=for-the-badge&logo=twitter)](https://twitter.com/)
+[![Github](https://img.shields.io/badge/anonymous-trhacknon-blue?style=for-the-badge&logo=messenger)](https://twitter.com/)
 [![Github](https://img.shields.io/badge/Discord-trhacknon-blue?style=for-the-badge&logo=discord)](https://discord.gg/)
 
 ## I recommend watching
