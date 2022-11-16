@@ -35,8 +35,8 @@ echo -e "  ▒ ░    ░      ▒ ░░ ░░   ░ ▒░ ░ ▒  ▒     �
 echo -e "  ▒ ░    ░ ░    ▒ ░   ░   ░ ░  ░ ░  ░     ▒ ▒ ░░  ░ ░ ░ ▒   ░░░ ░ ░"
 echo -e " ░             ░           ░    ░        ░ ░         ░ ░     ░"
 echo -e "v                              ░          ░ ░\e[0m"
-echo -e '                   .:: Developer MishaKorzhik ;:.\e[0m'
-echo -e '                .:;: My github.com/mishakorzik :::.\e[0m'
+echo -e '                   .:: Developer trhacknon ;:.\e[0m'
+echo -e '                .:;: My github.com/trhacknon:::.\e[0m'
 echo -e "\e[92m"
 echo -e '                    \e[100mTool For Powerfull Phishing \e[0m'
 echo
@@ -626,8 +626,8 @@ echo '
     |       will be questions you will write in telegram.          │
     │                                                              │
     │ >>  Author   :  Misha Korzhik                                │
-    │     Github   :  https://github.com/mishakorzik               │
-    │     Telegram :  pseudonym @MishaKorzhikTelegram              │
+    │     Github   :  https://github.com/trhacknon                 │
+    │     Telegram :  pseudonym trhacknon.                         │
     |     Info     :  Trank for installing I Find You              |
     │                                                              │
     └──────────────────────────────────────────────────────────────┘ 
